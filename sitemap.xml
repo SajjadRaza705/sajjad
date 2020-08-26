@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://sajjadraza705.github.io/sajjad/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="August 23, 2020 8:29 am" -->
+<!-- generated-on="August 26, 2020 12:02 pm" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://sajjadraza705.github.io/sajjad/sitemap-misc.xml</loc>
-		<lastmod>2020-08-17T17:23:48+00:00</lastmod>
+		<lastmod>2020-08-26T11:54:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://sajjadraza705.github.io/sajjad/sitemap-tax-category.xml</loc>
-		<lastmod>2020-08-17T17:23:48+00:00</lastmod>
+		<lastmod>2020-08-26T11:54:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://sajjadraza705.github.io/sajjad/sitemap-pt-post-2020-08.xml</loc>
@@ -18,18 +18,18 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://sajjadraza705.github.io/sajjad/sitemap-pt-post-2015-05.xml</loc>
-		<lastmod>2020-08-15T12:53:23+00:00</lastmod>
+		<lastmod>2020-08-25T09:58:47+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://sajjadraza705.github.io/sajjad/sitemap-pt-page-2020-08.xml</loc>
-		<lastmod>2020-08-17T17:23:48+00:00</lastmod>
+		<lastmod>2020-08-26T11:54:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://sajjadraza705.github.io/sajjad/sitemap-authors.xml</loc>
-		<lastmod>2020-08-17T17:23:48+00:00</lastmod>
+		<lastmod>2020-08-26T11:54:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://sajjadraza705.github.io/sajjad/sitemap-archives.xml</loc>
-		<lastmod>2020-08-17T17:23:48+00:00</lastmod>
+		<lastmod>2020-08-26T11:54:11+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: fa0b587a1d083bb2dede9b39f41f8e63; Queries for sitemap: 8; Total queries: 32; Seconds: 0.02; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: a1fa5512c40ae6fff2de9081cd8d4ed2; Queries for sitemap: 8; Total queries: 34; Seconds: 0.03; Memory for sitemap: 0MB; Total memory: 2MB -->
